@@ -1,12 +1,12 @@
 # Hey, I'm Shaun
 
-**Software engineer who builds things that work and helps others do the same.**
+**Software engineer who builds things that work and helps others do the same. My 'fix', is often fixing your issue**
 
 ---
 
 ## About Me
 
-19 years in the industry, mostly in private enterprise. I've maintained large scale global CDN infrastructure (100+ Tbps), built multiple high performing teams, survived corporate disasters, and helped build and launch globally impacting platforms (video streaming, game downloads, object storage).
+19 years in the industry, mostly in private enterprise. I've maintained large scale global CDN infrastructure (100+ Tbps), built multiple high performing teams, survived corporate disasters, and helped build and launch globally impacting platforms that people take for granted today (video streaming, game downloads, object storage).
 
 These days I spend as much time teaching as building. I believe the best engineers multiply themselves by lifting others up.
 
@@ -27,22 +27,26 @@ These days I spend as much time teaching as building. I believe the best enginee
 📝 **[Comprehension Debt: The Hidden Cost of AI Speed](https://www.linkedin.com/feed/update/urn:li:activity:7394756373919498240/)**  
 _We might be entering an era where traditional "technical debt" becomes "comprehension debt" — code generated quickly that becomes a maintenance nightmare because no one truly understands how it works._
 
-📝 **Currently writing a fun novel of my own career with a little help from my AI friends**
+📝 Currently writing a fun novel of my own career with a little help from my AI friends
 
-## Tech I Work With
+## Tech Hobbies
 
-Python · Linux · Kubernetes · Docker · Grafana · Networking (BGP, DNS, CDN) · AI/LLM tooling (meaning everything now)
+Python · Linux · Kubernetes · Docker · Grafana · Networking (BGP, DNS, CDN) · AI/LLM tooling (meaning everything now - unlocked potential )
+
+## Hobbies
+
+Handyman · Carpentry · Video Games
 
 ## Background
 
 - Started in network operations, realized software was more interesting
-- 15 years at a CDN company — engineer → supervisor → manager → director → chose to go back to IC work
+- IT, network and CDN career — tech → engineer → supervisor → manager → director → return to IC work
 - Helped build SRE practices before "SRE" was a job title everyone had
 - Currently building tools and teaching people
 
 ## Philosophy
 
-I have high standards that make some people uncomfortable. I'd rather build it right than build it fast, but I've learned when "good enough" actually is.
+I have high standards that make some people uncomfortable. I'd rather build it right than build it fast, but I'm learning when "good enough" actually is.
 
 ---
 
