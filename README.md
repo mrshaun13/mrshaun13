@@ -49,6 +49,9 @@ Handyman · Carpentry · Video Games
 I have high standards that make some people uncomfortable. I'd rather build it right than build it fast, but I'm learning when "good enough" actually is.
 
 ---
+## 💬 Let's Chat or find me on LinkedIn 
 
-📍 Tennessee  
+Want to nerd out over tech or play some Rocket League or LoL, or just want to say hi? Hit me up on Discord - always plugged in! 
+[![Discord](https://img.shields.io/badge/Discord-mrshaun13-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mrshaun13)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shaun-robbins-21ba5422/)
