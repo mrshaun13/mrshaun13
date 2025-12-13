@@ -27,6 +27,9 @@ These days I spend as much time teaching as building. I believe the best enginee
 📝 **[Comprehension Debt: The Hidden Cost of AI Speed](https://www.linkedin.com/feed/update/urn:li:activity:7394756373919498240/)**  
 _We might be entering an era where traditional "technical debt" becomes "comprehension debt" — code generated quickly that becomes a maintenance nightmare because no one truly understands how it works._
 
+📝 **[Process should be magnets not gates](https://www.linkedin.com/posts/shaun-robbins-21ba5422_cloudflare-outage-on-december-5-2025-activity-7402809467643633664-O-EO)**  
+_The main take away is that AI is granting us the ability and time to do it RIGHT and RIGHT should be sexy!_
+
 📝 Currently writing a fun novel of my own career with a little help from my AI friends
 
 ## Tech Hobbies
